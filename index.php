@@ -41,7 +41,7 @@ else
         <h2>AWS SDK for PHP</h2>
         <ul>
             <li><a href="http://aws.amazon.com/sdkforphp">AWS SDK for PHP home</a></li>
-            <li><a href="http://aws.amazon.com/php">PHP developer center yes</a></li>
+            <li><a href="#">PHP developer center Yes</a></li>
             <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
         </ul>
     </section>
